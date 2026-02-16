@@ -1,0 +1,151 @@
+﻿Fecha,Producto,Cantidad,Maquina,Operador,Origen
+2026-01-01,Tuerca Hex 1/2,347,Torno-A,Carlos Ruiz,Enero
+2026-01-01,Arandela Plana,230,Torno-A,Carlos Ruiz,Enero
+2026-01-01,Eje Principal,68,CNC-02,Juan Perez,Enero
+2026-01-02,Tuerca Hex 1/2,409,CNC-02,Maria Lopez,Enero
+2026-01-02,Buje Bronce,154,Torno-A,Maria Lopez,Enero
+2026-01-03,Tuerca Hex 1/2,0,Torno-A,Carlos Ruiz,Enero
+2026-01-04,Tuerca Hex 1/2,52,CNC-02,Maria Lopez,Enero
+2026-01-05,Tornillo 2,93,CNC-02,Ana Soto,Enero
+2026-01-05,Tuerca Hex 1/2,0,Fresadora-B,Ana Soto,Enero
+2026-01-05,Eje Principal,475,Torno-A,Juan Perez,Enero
+2026-01-06,Eje Principal,436,CNC-01,Juan Perez,Enero
+2026-01-06,Arandela Plana,379,Torno-A,Juan Perez,Enero
+2026-01-08,Buje Bronce,408,Fresadora-B,Juan Perez,Enero
+2026-01-09,Buje Bronce,229,CNC-01,Carlos Ruiz,Enero
+2026-01-09,Arandela Plana,461,Torno-A,Ana Soto,Enero
+2026-01-09,Tuerca Hex 1/2,210,Torno-A,Ana Soto,Enero
+2026-01-10,Eje Principal,57,Fresadora-B,Carlos Ruiz,Enero
+2026-01-10,Tuerca Hex 1/2,393,Fresadora-B,Ana Soto,Enero
+2026-01-11,Eje Principal,329,Torno-A,Carlos Ruiz,Enero
+2026-01-11,Arandela Plana,134,CNC-01,Carlos Ruiz,Enero
+2026-01-11,Eje Principal,0,CNC-02,Juan Perez,Enero
+2026-01-12,Eje Principal,65,CNC-02,Juan Perez,Enero
+2026-01-12,Tuerca Hex 1/2,225,CNC-02,Ana Soto,Enero
+2026-01-13,Buje Bronce,52,Torno-A,Juan Perez,Enero
+2026-01-14,Tuerca Hex 1/2,162,CNC-01,Maria Lopez,Enero
+2026-01-14,Eje Principal,235,Torno-A,Ana Soto,Enero
+2026-01-14,Arandela Plana,435,CNC-01,Ana Soto,Enero
+2026-01-16,Tuerca Hex 1/2,154,Torno-A,Maria Lopez,Enero
+2026-01-17,Tuerca Hex 1/2,358,CNC-01,Ana Soto,Enero
+2026-01-18,Eje Principal,70,CNC-02,Maria Lopez,Enero
+2026-01-18,Arandela Plana,215,CNC-01,Carlos Ruiz,Enero
+2026-01-18,Eje Principal,458,CNC-01,Maria Lopez,Enero
+2026-01-19,Buje Bronce,96,Fresadora-B,Carlos Ruiz,Enero
+2026-01-19,Tornillo 2,172,Torno-A,Carlos Ruiz,Enero
+2026-01-20,Tuerca Hex 1/2,106,CNC-02,Carlos Ruiz,Enero
+2026-01-22,Arandela Plana,251,CNC-01,Ana Soto,Enero
+2026-01-22,Eje Principal,312,CNC-02,Ana Soto,Enero
+2026-01-22,Tuerca Hex 1/2,431,CNC-01,Juan Perez,Enero
+2026-01-24,Tornillo 2,115,Torno-A,Carlos Ruiz,Enero
+2026-01-24,Tuerca Hex 1/2,325,CNC-01,Ana Soto,Enero
+2026-01-25,Eje Principal,194,CNC-02,Ana Soto,Enero
+2026-01-25,Arandela Plana,459,Torno-A,Maria Lopez,Enero
+2026-01-25,Tornillo 2,223,Fresadora-B,Juan Perez,Enero
+2026-01-26,Arandela Plana,483,Fresadora-B,Carlos Ruiz,Enero
+2026-01-27,Buje Bronce,304,Torno-A,Juan Perez,Enero
+2026-01-27,Tornillo 2,249,Torno-A,Juan Perez,Enero
+2026-01-28,Tuerca Hex 1/2,379,CNC-02,Ana Soto,Enero
+2026-01-28,Buje Bronce,92,Torno-A,Ana Soto,Enero
+2026-01-28,Arandela Plana,193,Torno-A,Juan Perez,Enero
+2026-01-29,Tuerca Hex 1/2,412,Torno-A,Maria Lopez,Enero
+2026-02-01,Tornillo 2,449,CNC-01,Ana Soto,Febrero
+2026-02-02,Tuerca Hex 1/2,63,Torno-A,Ana Soto,Febrero
+2026-02-03,Tuerca Hex 1/2,219,CNC-02,Maria Lopez,Febrero
+2026-02-04,Buje Bronce,351,CNC-01,Juan Perez,Febrero
+2026-02-04,Eje Principal,391,Torno-A,Juan Perez,Febrero
+2026-02-05,Buje Bronce,78,CNC-01,Ana Soto,Febrero
+2026-02-05,Arandela Plana,402,CNC-02,Juan Perez,Febrero
+2026-02-05,Tuerca Hex 1/2,207,CNC-01,Ana Soto,Febrero
+2026-02-05,Tornillo 2,295,CNC-02,Ana Soto,Febrero
+2026-02-06,Buje Bronce,239,Torno-A,Ana Soto,Febrero
+2026-02-07,Tuerca Hex 1/2,403,CNC-01,Carlos Ruiz,Febrero
+2026-02-08,Arandela Plana,162,Fresadora-B,Juan Perez,Febrero
+2026-02-08,Tuerca Hex 1/2,208,Fresadora-B,Juan Perez,Febrero
+2026-02-08,Buje Bronce,133,CNC-01,Ana Soto,Febrero
+2026-02-08,Tuerca Hex 1/2,448,Fresadora-B,Ana Soto,Febrero
+2026-02-09,Buje Bronce,282,Torno-A,Ana Soto,Febrero
+2026-02-10,Arandela Plana,249,Fresadora-B,Juan Perez,Febrero
+2026-02-11,Tornillo 2,261,CNC-01,Ana Soto,Febrero
+2026-02-11,Tornillo 2,460,CNC-01,Carlos Ruiz,Febrero
+2026-02-11,Tornillo 2,126,Torno-A,Maria Lopez,Febrero
+2026-02-11,Buje Bronce,120,Torno-A,Juan Perez,Febrero
+2026-02-13,Tornillo 2,180,CNC-02,Maria Lopez,Febrero
+2026-02-16,Tornillo 2,315,Torno-A,Juan Perez,Febrero
+2026-02-16,Buje Bronce,185,CNC-01,Juan Perez,Febrero
+2026-02-16,Buje Bronce,380,CNC-02,Maria Lopez,Febrero
+2026-02-16,Buje Bronce,473,Fresadora-B,Juan Perez,Febrero
+2026-02-16,Tuerca Hex 1/2,425,Torno-A,Maria Lopez,Febrero
+2026-02-17,Eje Principal,448,CNC-01,Juan Perez,Febrero
+2026-02-17,Eje Principal,460,Fresadora-B,Carlos Ruiz,Febrero
+2026-02-17,Tornillo 2,255,CNC-02,Maria Lopez,Febrero
+2026-02-18,Tuerca Hex 1/2,371,Torno-A,Maria Lopez,Febrero
+2026-02-19,Eje Principal,470,Torno-A,Ana Soto,Febrero
+2026-02-20,Arandela Plana,260,Torno-A,Maria Lopez,Febrero
+2026-02-21,Tornillo 2,410,Fresadora-B,Carlos Ruiz,Febrero
+2026-02-21,Tornillo 2,469,Torno-A,Juan Perez,Febrero
+2026-02-22,Tuerca Hex 1/2,327,CNC-01,Juan Perez,Febrero
+2026-02-22,Eje Principal,76,CNC-01,Carlos Ruiz,Febrero
+2026-02-23,Eje Principal,316,CNC-01,Carlos Ruiz,Febrero
+2026-02-23,Tuerca Hex 1/2,477,Fresadora-B,Ana Soto,Febrero
+2026-02-23,Buje Bronce,165,Fresadora-B,Maria Lopez,Febrero
+2026-02-24,Tuerca Hex 1/2,273,Torno-A,Carlos Ruiz,Febrero
+2026-02-24,Tuerca Hex 1/2,414,Torno-A,Carlos Ruiz,Febrero
+2026-02-24,Tornillo 2,286,Torno-A,Ana Soto,Febrero
+2026-02-25,Tornillo 2,102,CNC-02,Carlos Ruiz,Febrero
+2026-02-25,Eje Principal,185,CNC-02,Juan Perez,Febrero
+2026-02-25,Tornillo 2,196,Torno-A,Carlos Ruiz,Febrero
+2026-02-25,Arandela Plana,148,CNC-02,Ana Soto,Febrero
+2026-02-26,Tornillo 2,294,Fresadora-B,Juan Perez,Febrero
+2026-02-27,Eje Principal,202,Fresadora-B,Maria Lopez,Febrero
+2026-02-27,Tuerca Hex 1/2,129,Fresadora-B,Ana Soto,Febrero
+2026-03-01,Tornillo 2,93,CNC-01,Ana Soto,Marzo
+2026-03-01,Buje Bronce,67,Fresadora-B,Ana Soto,Marzo
+2026-03-01,Buje Bronce,218,CNC-01,Maria Lopez,Marzo
+2026-03-02,Buje Bronce,452,Torno-A,Juan Perez,Marzo
+2026-03-02,Buje Bronce,394,Fresadora-B,Maria Lopez,Marzo
+2026-03-02,Tuerca Hex 1/2,345,Fresadora-B,Ana Soto,Marzo
+2026-03-02,Buje Bronce,451,CNC-02,Ana Soto,Marzo
+2026-03-03,Eje Principal,162,CNC-01,Ana Soto,Marzo
+2026-03-04,Tornillo 2,169,Fresadora-B,Ana Soto,Marzo
+2026-03-04,Tornillo 2,308,CNC-01,Ana Soto,Marzo
+2026-03-05,Tornillo 2,186,Fresadora-B,Carlos Ruiz,Marzo
+2026-03-06,Buje Bronce,163,CNC-02,Ana Soto,Marzo
+2026-03-06,Tuerca Hex 1/2,198,CNC-02,Ana Soto,Marzo
+2026-03-06,Buje Bronce,55,Torno-A,Carlos Ruiz,Marzo
+2026-03-07,Eje Principal,58,Torno-A,Carlos Ruiz,Marzo
+2026-03-07,Eje Principal,366,Fresadora-B,Ana Soto,Marzo
+2026-03-12,Arandela Plana,337,Torno-A,Maria Lopez,Marzo
+2026-03-13,Arandela Plana,208,Torno-A,Ana Soto,Marzo
+2026-03-13,Tornillo 2,270,Torno-A,Juan Perez,Marzo
+2026-03-15,Tornillo 2,304,Torno-A,Ana Soto,Marzo
+2026-03-15,Buje Bronce,381,Torno-A,Carlos Ruiz,Marzo
+2026-03-15,Buje Bronce,272,Fresadora-B,Carlos Ruiz,Marzo
+2026-03-16,Arandela Plana,313,Torno-A,Juan Perez,Marzo
+2026-03-16,Buje Bronce,259,Torno-A,Carlos Ruiz,Marzo
+2026-03-17,Eje Principal,426,Torno-A,Maria Lopez,Marzo
+2026-03-17,Tornillo 2,412,CNC-02,Carlos Ruiz,Marzo
+2026-03-17,Eje Principal,232,Fresadora-B,Juan Perez,Marzo
+2026-03-18,Arandela Plana,472,CNC-02,Maria Lopez,Marzo
+2026-03-18,Arandela Plana,92,CNC-01,Ana Soto,Marzo
+2026-03-18,Tuerca Hex 1/2,247,CNC-02,Juan Perez,Marzo
+2026-03-19,Tornillo 2,238,CNC-02,Maria Lopez,Marzo
+2026-03-22,Tuerca Hex 1/2,415,Fresadora-B,Juan Perez,Marzo
+2026-03-23,Buje Bronce,325,Torno-A,Carlos Ruiz,Marzo
+2026-03-24,Tornillo 2,335,Torno-A,Juan Perez,Marzo
+2026-03-24,Tornillo 2,380,Fresadora-B,Carlos Ruiz,Marzo
+2026-03-24,Arandela Plana,58,CNC-02,Ana Soto,Marzo
+2026-03-24,Buje Bronce,277,CNC-02,Carlos Ruiz,Marzo
+2026-03-25,Eje Principal,101,Fresadora-B,Maria Lopez,Marzo
+2026-03-26,Tuerca Hex 1/2,237,Torno-A,Juan Perez,Marzo
+2026-03-27,Tornillo 2,67,Torno-A,Maria Lopez,Marzo
+2026-03-27,Buje Bronce,382,CNC-01,Carlos Ruiz,Marzo
+2026-03-28,Eje Principal,211,Torno-A,Juan Perez,Marzo
+2026-03-28,Buje Bronce,290,CNC-02,Ana Soto,Marzo
+2026-03-28,Arandela Plana,306,Torno-A,Maria Lopez,Marzo
+2026-03-28,Tuerca Hex 1/2,119,Fresadora-B,Maria Lopez,Marzo
+2026-03-28,Buje Bronce,429,Torno-A,Juan Perez,Marzo
+2026-03-29,Buje Bronce,180,Torno-A,Ana Soto,Marzo
+2026-03-29,Arandela Plana,149,Fresadora-B,Carlos Ruiz,Marzo
+2026-03-30,Eje Principal,329,CNC-02,Maria Lopez,Marzo
+2026-03-30,Buje Bronce,64,CNC-01,Juan Perez,Marzo

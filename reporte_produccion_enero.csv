@@ -1,0 +1,51 @@
+Fecha,Producto,Cantidad,Maquina,Operador
+2026-01-25,"Tornillo 2""",223,Fresadora-B,Juan Perez
+2026-01-12,"Tuerca Hex 1/2""",225,CNC-02,Ana Soto
+2026-01-05,"Tornillo 2""",93,CNC-02,Ana Soto
+2026-01-01,Arandela Plana,230,Torno-A,Carlos Ruiz
+2026-01-18,Arandela Plana,215,CNC-01,Carlos Ruiz
+2026-01-09,Arandela Plana,461,Torno-A,Ana Soto
+2026-01-05,"Tuerca Hex 1/2""",,Fresadora-B,Ana Soto
+2026-01-22,Eje Principal,312,CNC-02,Ana Soto
+2026-01-27,"Tornillo 2""",249,Torno-A,Juan Perez
+2026-01-28,Buje Bronce,92,Torno-A,Ana Soto
+2026-01-05,Eje Principal,475,Torno-A,Juan Perez
+2026-01-14,Arandela Plana,435,CNC-01,Ana Soto
+2026-01-29,"Tuerca Hex 1/2""",412,Torno-A,Maria Lopez
+2026-01-09,Buje Bronce,229,CNC-01,Carlos Ruiz
+2026-01-14,Eje Principal,235,Torno-A,Ana Soto
+2026-01-27,Buje Bronce,304,Torno-A,Juan Perez
+2026-01-14,"Tuerca Hex 1/2""",162,CNC-01,Maria Lopez
+2026-01-24,"Tuerca Hex 1/2""",325,CNC-01,Ana Soto
+2026-01-01,"Tuerca Hex 1/2""",347,Torno-A,Carlos Ruiz
+2026-01-25,Arandela Plana,459,Torno-A,Maria Lopez
+2026-01-11,Eje Principal,329,Torno-A,Carlos Ruiz
+2026-01-19,Buje Bronce,96,Fresadora-B,Carlos Ruiz
+2026-01-19,"Tornillo 2""",172,Torno-A,Carlos Ruiz
+2026-01-10,Eje Principal,57,Fresadora-B,Carlos Ruiz
+2026-01-28,"Tuerca Hex 1/2""",379,CNC-02,Ana Soto
+2026-01-24,"Tornillo 2""",115,Torno-A,Carlos Ruiz
+2026-01-22,"Tuerca Hex 1/2""",431,CNC-01,Juan Perez
+2026-01-16,"Tuerca Hex 1/2""",154,Torno-A,Maria Lopez
+2026-01-03,"Tuerca Hex 1/2""",,Torno-A,Carlos Ruiz
+2026-01-06,Eje Principal,436,CNC-01,Juan Perez
+2026-01-06,Arandela Plana,379,Torno-A,Juan Perez
+2026-01-11,Arandela Plana,134,CNC-01,Carlos Ruiz
+2026-01-26,Arandela Plana,483,Fresadora-B,Carlos Ruiz
+2026-01-18,Eje Principal,70,CNC-02,Maria Lopez
+2026-01-25,Eje Principal,194,CNC-02,Ana Soto
+2026-01-10,"Tuerca Hex 1/2""",393,Fresadora-B,Ana Soto
+2026-01-02,Buje Bronce,154,Torno-A,Maria Lopez
+2026-01-18,Eje Principal,458,CNC-01,Maria Lopez
+2026-01-20,"Tuerca Hex 1/2""",106,CNC-02,Carlos Ruiz
+2026-01-09,"Tuerca Hex 1/2""",210,Torno-A,Ana Soto
+2026-01-28,Arandela Plana,193,Torno-A,Juan Perez
+2026-01-01,Eje Principal,68,CNC-02,Juan Perez
+2026-01-17,"Tuerca Hex 1/2""",358,CNC-01,Ana Soto
+2026-01-04,"Tuerca Hex 1/2""",52,CNC-02,Maria Lopez
+2026-01-08,Buje Bronce,408,Fresadora-B,Juan Perez
+2026-01-13,Buje Bronce,52,Torno-A,Juan Perez
+2026-01-22,Arandela Plana,251,CNC-01,Ana Soto
+2026-01-12,Eje Principal,65,CNC-02,Juan Perez
+2026-01-11,Eje Principal,,CNC-02,Juan Perez
+2026-01-02,"Tuerca Hex 1/2""",409,CNC-02,Maria Lopez
