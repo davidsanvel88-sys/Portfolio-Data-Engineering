@@ -1,3 +1,4 @@
+
 # Portfolio-Data-Engineering
 
 # 🏭 ETL de Producción Industrial Automatizado
@@ -23,3 +24,4 @@ Desarrollé un script en **Python (Pandas)** que:
 
 ### Evidencia de Ejecución
 ![Reporte de Consola](Captura%20de%20pantalla%20.jpg)
+![dashboard ](https://github.com/user-attachments/assets/e935e85c-3677-4c70-af43-4df3473ae751)
